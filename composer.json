@@ -17,6 +17,10 @@
     ],
     "repositories": [
         {
+            "type": "vcs",
+            "url": "https://git.drupalcode.org/issue/config_rewrite-3186484.git"
+        },
+        {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         }
