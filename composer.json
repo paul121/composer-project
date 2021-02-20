@@ -16,6 +16,9 @@
         }
     ],
     "repositories": [
+        {   "type": "git",
+            "url": "https://github.com/farmOS/farmOS.git"
+        },
         {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
